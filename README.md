@@ -4,6 +4,16 @@
 
 Aplikasi ini dibuat dengan bahasa pemrograman <a href="http://php.net/" target="_blank">PHP</a> dan database <a href="https://en.wikipedia.org/wiki/MySQLi" target="_blank">MySQLi</a>. Sedangkan cssnya menggunakan <a href="https://www.getbootstrap.com/" target="_blank">Bootstrap CSS</a>.
 
+Untuk menggunakan aplikasi ini silahkanlakukan beberapa konfigurasi terlebih dahulu.
+
+- konfigurasi database sistem : buka file **koneksi** -> **koneksi.php** lalu setting databsenya.
+- konfigurasi cek login: buka file **cek_login** -> **cek_login.php** lalu setting databsenya.
+- konfigurasi diagram kelembabab, diagram tekanan, dan diagram temperatur : buka file **grafik_kelembapan**, **grafik_tekanan**, **grafik_temperatur** -> **grafik_kelembapan.php**, **grafik_tekanan.php**, **grafik_temperatur.php** lalu setting databsenya.
+- konfigurasi fitur import file Excel (.xls) : buka file **import** -> **import.php** lalu setting databsenya.
+
+Fitur - fitur yang ada diaplikasi ini adalah :
+- 
+
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 
