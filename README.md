@@ -12,7 +12,12 @@ Untuk menggunakan aplikasi ini silahkanlakukan beberapa konfigurasi terlebih dah
 - konfigurasi fitur import file Excel (.xls) : buka file **import** -> **import.php** lalu setting databsenya.
 
 Fitur - fitur yang ada diaplikasi ini adalah :
+
+- Penentuan klasifikasi cuaca berdasarkan data Temperatur, Tekanan, dan Kelembapan dengan hasil dari 3 Cluster (Cuaca Ekstrem, Cuaca Rendah, atau Cuaca Sedang)
 - 
+- Login *Multilevel user*
+- Import data cuaca harian dengan file Excel (.xls)
+- Grafik pada bagian Temperatur, Tekanan, Kelembapan pada semua data
 
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
