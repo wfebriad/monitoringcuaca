@@ -4,7 +4,7 @@
 
 Aplikasi ini dibuat dengan bahasa pemrograman <a href="http://php.net/" target="_blank">PHP</a> dan database <a href="https://en.wikipedia.org/wiki/MySQLi" target="_blank">MySQLi</a>. Sedangkan cssnya menggunakan <a href="https://www.getbootstrap.com/" target="_blank">Bootstrap CSS</a>.
 
-Untuk menggunakan aplikasi ini silahkanlakukan beberapa konfigurasi terlebih dahulu.
+Untuk menggunakan aplikasi ini silahkan lakukan beberapa konfigurasi terlebih dahulu.
 
 - konfigurasi database sistem : buka file **koneksi** -> **koneksi.php** lalu setting databsenya.
 - konfigurasi cek login: buka file **cek_login** -> **cek_login.php** lalu setting databsenya.
