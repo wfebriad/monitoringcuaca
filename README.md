@@ -8,7 +8,7 @@ Untuk menggunakan aplikasi ini silahkanlakukan beberapa konfigurasi terlebih dah
 
 - konfigurasi database sistem : buka file **koneksi** -> **koneksi.php** lalu setting databsenya.
 - konfigurasi cek login: buka file **cek_login** -> **cek_login.php** lalu setting databsenya.
-- konfigurasi diagram kelembabab, diagram tekanan, dan diagram temperatur : buka file **grafik_kelembapan**, **grafik_tekanan**, **grafik_temperatur** -> **grafik_kelembapan.php**, **grafik_tekanan.php**, **grafik_temperatur.php** lalu setting databsenya.
+- konfigurasi diagram kelembaban, diagram tekanan, dan diagram temperatur : buka file **grafik_kelembapan**, **grafik_tekanan**, **grafik_temperatur** -> **grafik_kelembapan.php**, **grafik_tekanan.php**, **grafik_temperatur.php** lalu setting databsenya.
 - konfigurasi fitur import file Excel (.xls) : buka file **import** -> **import.php** lalu setting databsenya.
 
 Fitur - fitur yang ada diaplikasi ini adalah :
