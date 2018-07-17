@@ -24,4 +24,4 @@ Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 **Wisnu Febriadi - Teknik Informatika - Universitas Maritim Raja Ali Haji**
 
 <h2>Tampilan Aplikasi</h3>
-<a href="asset/img/Monitoring Cuaca 1.png"></a>
+<img src="asset/img/Monitoring Cuaca 1.png">
