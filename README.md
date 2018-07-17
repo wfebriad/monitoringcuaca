@@ -4,7 +4,9 @@
 
 Aplikasi ini dibuat dengan bahasa pemrograman <a href="http://php.net/" target="_blank">PHP</a> dan database <a href="https://en.wikipedia.org/wiki/MySQLi" target="_blank">MySQLi</a>. Sedangkan cssnya menggunakan <a href="https://www.getbootstrap.com/" target="_blank">Bootstrap CSS</a>.
 
-Untuk melakukan perhitungan Klasifikasi Jenis Cuaca, disini penulis melakukan penghitungan manual dan mengimplementasikan algoritma K-Means pada data cuaca harian, jumlah cluster yang akan dibentuk adalah 3 *cluster* Dimana *cluster 1* (C1) dikategorikan *Ekstrem*, *cluster 2* (C2) dikategorikan *Sedang*, dan *cluster 3* (C3) dikategorikan *Rendah*. Dan dalam sebagai pusat titik awal *cluster* (*centroid*), disini penulis menggunakan nilai random. Selanjutnya penulis menghitung jarak terpendek dengan menggunakan rumus *Eulidean*  untuk menghitung jarak data dengan *Cluster 1, Cluster 2, dan Cluster 3*.
+Untuk melakukan perhitungan Klasifikasi Jenis Cuaca, disini penulis melakukan penghitungan manual dan mengimplementasikan algoritma K-Means pada data cuaca harian, jumlah cluster yang akan dibentuk adalah 3 *cluster* Dimana *cluster 1* (C1) dikategorikan *Ekstrem*, *cluster 2* (C2) dikategorikan *Sedang*, dan *cluster 3* (C3) dikategorikan *Rendah*.
+
+Dan dalam sebagai pusat titik awal *cluster* (*centroid*), disini penulis menggunakan nilai random. Selanjutnya penulis menghitung jarak terpendek dengan menggunakan rumus *Eulidean*  untuk menghitung jarak data dengan *Cluster 1, Cluster 2, dan Cluster 3*.
 
 
 Untuk menggunakan aplikasi ini silahkan lakukan beberapa konfigurasi terlebih dahulu.
