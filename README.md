@@ -25,3 +25,5 @@ Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 
 <h2>Tampilan Aplikasi</h3>
 <img src="asset/img/Monitoring Cuaca 1.png">
+<img src="asset/img/Monitoring Cuaca 2.png">
+<img src="asset/img/Monitoring Cuaca 3.png">
