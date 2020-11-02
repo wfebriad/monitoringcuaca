@@ -1,4 +1,3 @@
-**Jika membutuhkan databasenya dan file index.php nya bisa menghubungi email w.febriadi00@gmail.com atau WhatsApp +62819 9133 0226**
 
 <h2>Monitoring Cuaca BMKG Tanjungpinang</h2>
 
